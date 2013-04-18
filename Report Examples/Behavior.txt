@@ -1,0 +1,1398 @@
+ 
+     extra :  
+         DeviceIoControl 
+      
+     filesystem :  
+         copied :  
+             
+                 dst :  C:\\Documents and Settings\\<USER>\\Application Data\\Microsoft\\Internet Explorer\\Quick Launch\\Mail.Ru.lnk  
+                 src :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\Mail.Ru.lnk  
+                 success : true
+              
+             
+                 dst :  C:\\Program Files\\Mail.Ru\\Sputnik\\mailrusputnik.exe  
+                 src :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\mailrusputnik.exe  
+                 success : true
+             
+          
+         deleted :  
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\Internet.exe  
+                 success : false
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\Internet.exe.xdl   
+                 success : false
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\mailrusputnik.exe  
+                 success : false
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\mailrusputnik.exe.xdl   
+                 success : false
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\6D447232F0354C72972BC484719C6ACB.html  
+                 success : true
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\6154F86209ED45C384D6B91D11AA3FAB.html  
+                 success : true
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\Mail.Ru.lnk  
+                 success : true
+              
+             
+                 path :  C:\\Documents and Settings\\LocalService\\Application Data\\ DCD48218 E972 4d0c 9E5F 43462BC13E3B \\ 9BED5EE2 0547 4706 8600 D3897629ADE0   
+                 success : false
+              
+             
+                 path :  C:\\GuardMailRu.log  
+                 success : false
+             
+          
+         downloaded :    
+         moved :  
+             
+                 dst :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\mailrusputnik.exe  
+                 src :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\mailrusputnik.exe.xdl   
+                 success : true
+              
+             
+                 dst :   null   
+                 src :  GuardMailRu.exe  
+                 success : true
+             
+          
+         opened :  
+             
+                 path :  \\\\.\\PIPE\\lsarpc  
+                 success : true
+              
+             
+                 path :  c:\\autoexec.bat  
+                 success : true
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\Internet.exe.xdl   
+                 success : true
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\mailrusputnik.exe.xdl   
+                 success : true
+              
+             
+                 path :  \\\\.\\PIPE\\wkssvc  
+                 success : true
+              
+             
+                 path :  \\\\.\\MountPointManager  
+                 success : true
+              
+             
+                 path :  C:\\WINDOWS\\Registration\\R000000000007.clb  
+                 success : true
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\mailrusputnik.exe  
+                 success : true
+              
+             
+                 path :  C:\\WINDOWS\\system32\\DRIVERS\\ACPI.sys  
+                 success : true
+              
+             
+                 path :  C:\\WINDOWS\\system32\\drivers\\ac97intc.sys  
+                 success : true
+              
+             
+                 path :  C:\\WINDOWS\\system32\\DRIVERS\\mssmbios.sys  
+                 success : true
+              
+             
+                 path :  C:\\WINDOWS\\system32\\DRIVERS\\pcntpci5.sys  
+                 success : true
+              
+             
+                 path :  C:\\WINDOWS\\system32\\DRIVERS\\ipnat.sys  
+                 success : true
+              
+             
+                 path :  C:\\WINDOWS\\System32\\Drivers\\HTTP.sys  
+                 success : true
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\6D447232F0354C72972BC484719C6ACB.html  
+                 success : true
+              
+             
+                 path :  C:\\Program Files\\Internet Explorer\\iexplore.exe  
+                 success : true
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\6154F86209ED45C384D6B91D11AA3FAB.html  
+                 success : true
+              
+             
+                 path :  C:\\Documents and Settings\\<USER>\\Application Data\\Mozilla\\Firefox\\profiles.ini  
+                 success : false
+              
+             
+                 path :  C:\\Documents and Settings\\All Users\\Favorites\\Mail.Ru.url  
+                 success : true
+              
+             
+                 path :  C:\\Documents and Settings\\<USER>\\Local Settings\\Application Data\\Google\\Chrome\\User Data\\Default\\Web Data  
+                 success : false
+              
+             
+                 path :  C:\\Documents and Settings\\<USER>\\Local Settings\\Application Data\\Xpom\\User Data\\Default\\Web Data  
+                 success : false
+              
+             
+                 path :  C:\\Documents and Settings\\<USER>\\Local Settings\\Application Data\\Yandex\\Internet\\User Data\\Default\\Web Data  
+                 success : false
+              
+             
+                 path :  C:\\Documents and Settings\\<USER>\\Local Settings\\Application Data\\Nichrome\\User Data\\Default\\Web Data  
+                 success : false
+              
+             
+                 path :  C:\\Documents and Settings\\<USER>\\Local Settings\\Application Data\\Mail.Ru\\GoMailRu.ico  
+                 success : true
+              
+             
+                 path :  C:\\Documents and Settings\\<USER>\\Local Settings\\Application Data\\Mail.Ru\\Sputnik\\MailRu.ico  
+                 success : true
+              
+             
+                 path :  \\\\.\\PIPE\\srvsvc  
+                 success : true
+              
+             
+                 path :  C:\\Program Files\\Internet Explorer\\IEXPLORE.EXE  
+                 success : true
+              
+             
+                 path :  C:\\Program Files\\Internet Explorer\\  
+                 success : true
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\Mail.Ru.lnk  
+                 success : true
+              
+             
+                 path :  C:\\Program Files\\Mail.Ru\\Sputnik\\MailRuSputnik.dll  
+                 success : true
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\ie.reg  
+                 success : true
+              
+             
+                 path :  C:\\WINDOWS\\system32\\reg.exe  
+                 success : true
+              
+             
+                 path :  C:\\Program Files\\Mail.Ru\\Sputnik\\SputnikFlashPlayer.exe  
+                 success : true
+              
+             
+                 path :  C:\\WINDOWS\\system32\\netsh.exe  
+                 success : true
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\\\GuardMailRu.exe  
+                 success : true
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\GuardMailRu.exe  
+                 success : true
+              
+             
+                 path :  C:\\WINDOWS\\system32\\xpob2res.dll  
+                 success : true
+              
+             
+                 path :  C:\\WINDOWS\\WindowsShell.Manifest  
+                 success : true
+              
+             
+                 path :  \\\\.\\WMIDataDevice  
+                 success : true
+              
+             
+                 path :  C:\\WINDOWS\\system32\\xpsp2res.dll  
+                 success : true
+              
+             
+                 path :  C:\\Program Files\\Mail.Ru\\Guard\\GuardMailRu.exe  
+                 success : true
+              
+             
+                 path :  \\\\.\\pipe\\net\\NtControlPipe10  
+                 success : true
+              
+             
+                 path :  C:\\Documents and Settings\\LocalService\\Application Data\\ DCD48218 E972 4d0c 9E5F 43462BC13E3B \\ 9BED5EE2 0547 4706 8600 D3897629ADE0   
+                 success : false
+              
+             
+                 path :  \\\\.\\Ip  
+                 success : true
+              
+             
+                 path :  \\\\.\\pipe\\winlogonrpc  
+                 success : true
+              
+             
+                 path :  C:\\svc.wait  
+                 success : false
+             
+          
+         read :  
+             
+                 path :  c:\\autoexec.bat  
+                 success : true
+              
+             
+                 path :  C:\\WINDOWS\\Registration\\R000000000007.clb  
+                 success : true
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\mailrusputnik.exe  
+                 success : true
+              
+             
+                 path :  C:\\Program Files\\Internet Explorer\\IEXPLORE.EXE  
+                 success : true
+              
+             
+                 path :  C:\\WINDOWS\\system32\\reg.exe  
+                 success : true
+              
+             
+                 path :  C:\\WINDOWS\\system32\\netsh.exe  
+                 success : true
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\GuardMailRu.exe  
+                 success : true
+              
+             
+                 path :  \\\\.\\pipe\\net\\NtControlPipe10  
+                 success : true
+             
+          
+         replaced :    
+         written :  
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\mailrusputnik.exe.xdl   
+                 success : true
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\Internet.exe.xdl   
+                 success : true
+              
+             
+                 path :  C:\\Documents and Settings\\All Users\\Favorites\\Mail.Ru.url  
+                 success : true
+              
+             
+                 path :  C:\\Documents and Settings\\<USER>\\Local Settings\\Application Data\\Mail.Ru\\GoMailRu.ico  
+                 success : true
+              
+             
+                 path :  C:\\Documents and Settings\\<USER>\\Local Settings\\Application Data\\Mail.Ru\\Sputnik\\MailRu.ico  
+                 success : true
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\Mail.Ru.lnk  
+                 success : true
+              
+             
+                 path :  C:\\Program Files\\Mail.Ru\\Sputnik\\MailRuSputnik.dll  
+                 success : true
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\ie.reg  
+                 success : true
+              
+             
+                 path :  C:\\Program Files\\Mail.Ru\\Sputnik\\SputnikFlashPlayer.exe  
+                 success : true
+              
+             
+                 path :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\\\GuardMailRu.exe  
+                 success : true
+              
+             
+                 path :  C:\\Program Files\\Mail.Ru\\Guard\\GuardMailRu.exe  
+                 success : true
+              
+             
+                 path :  \\\\.\\pipe\\net\\NtControlPipe10  
+                 success : true
+             
+         
+      
+     hooking :    
+     mutex :  
+         created :  
+             
+                 mutex :  RasPbFile  
+                 success : false
+             
+          
+         opened :  
+             
+                 mutex :  RasPbFile  
+                 success : true
+              
+             
+                 mutex :  ShimCacheMutex  
+                 success : true
+              
+             
+                 mutex :  Global\\CCBEEDE7728B419F84D19D928981ADD9  
+                 success : false
+             
+         
+      
+     network :  
+         dns :  
+             
+                 hostname :  filedwn.ru  
+                 ip :  146.255.192.10 
+              
+             
+                 hostname :  binupdate.mail.ru  
+                 ip :  217.69.133.27 
+              
+             
+                 hostname :  internetmailru.cdnmail.ru  
+                 ip :  217.69.131.112 
+              
+             
+                 hostname :  r.mail.ru  
+                 ip :  94.100.181.213 
+              
+             
+                 hostname :  exe.agent.mail.ru  
+                 ip :  94.100.187.142 
+              
+             
+                 hostname :  sputnikmailru.cdnmail.ru  
+                 ip :  128.140.169.70 
+              
+             
+                 hostname :  mrb.mail.ru  
+                 ip :  94.100.187.138 
+             
+          
+         http :  
+             
+                 method :  GET  
+                 url :  http:  filedwn.ru get download xml 3 id 722951  
+                 user agent :  tiny dl nix 
+              
+             
+                 method :  GET  
+                 url :  http:  binupdate.mail.ru dwnld url u http:  www.unibytes.com Yu9faZIOfYcB  
+                 user agent :  tiny dl 
+              
+             
+                 method :  HEAD  
+                 url :  http:  internetmailru.cdnmail.ru Internet.exe  
+                 user agent :  tiny dl nix 
+              
+             
+                 method :  HEAD  
+                 url :  http:  r.mail.ru cln5491 exe.agent.mail.ru sputnik mailrusputnik.exe  
+                 user agent :  tiny dl nix 
+              
+             
+                 method :  GET  
+                 url :  http:  internetmailru.cdnmail.ru Internet.exe  
+                 user agent :  tiny dl nix 
+              
+             
+                 method :  HEAD  
+                 url :  http:  exe.agent.mail.ru sputnik mailrusputnik.exe  
+                 user agent :  tiny dl nix 
+              
+             
+                 method :  HEAD  
+                 url :  http:  sputnikmailru.cdnmail.ru mailrusputnik.exe  
+                 user agent :  tiny dl nix 
+              
+             
+                 method :  GET  
+                 url :  http:  r.mail.ru cln5491 exe.agent.mail.ru sputnik mailrusputnik.exe  
+                 user agent :  tiny dl nix 
+              
+             
+                 method :  GET  
+                 url :  http:  exe.agent.mail.ru sputnik mailrusputnik.exe  
+                 user agent :  tiny dl nix 
+              
+             
+                 method :  GET  
+                 url :  http:  sputnikmailru.cdnmail.ru mailrusputnik.exe  
+                 user agent :  tiny dl nix 
+              
+             
+                 method :  GET  
+                 url :  http:  mrb.mail.ru update 2 version.txt type install GUID  F807D456 6825 4CC1 9627 1DC9EABC6790  rfr openpart5 standalone 1 bgn 1  
+                 user agent :  FULLSTUFF 
+              
+             
+                 method :  GET  
+                 url :  http:  mrb.mail.ru update 2 version.txt type install GUID  F807D456 6825 4CC1 9627 1DC9EABC6790  rfr openpart5 success 1 ieovr 0 ffovr 0 br ie brver 6.00 bfr 0 aftr 1 bfr2 aHR0cDovL3d3dy5taWNyb3NvZnQuY29tL2lzYXBpL3JlZGlyLmRsbD9wcmQ9aWUmcHZlcj02JmFyPW1zbmhvbWU 5B aftr2 aHR0cDovL3d3dy5tYWlsLnJ1L2NudC85NTE2  
+                 user agent :  FULLSTUFF 
+              
+             
+                 method :  GET  
+                 url :  http:  mrb.mail.ru update 2 version.txt type install GUID  F807D456 6825 4CC1 9627 1DC9EABC6790  rfr openpart5 standalone 1 uacenabled 0 uacpass 1  
+                 user agent :  FULLSTUFF 
+             
+          
+         tcp :  
+             146.255.192.10:80  
+             217.69.133.27:80  
+             128.140.169.66:80  
+             94.100.181.196:80  
+             94.100.187.144:80  
+             94.100.187.138:80 
+          
+         udp :  
+             <MACHINE DNS SERVER>:53 
+         
+      
+     process :  
+         created :  
+             
+                 proc :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\mailrusputnik.exe C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\mailrusputnik.exe\    silent  rfr openpart5  partner new url http:  filedwn.ru install guid    GUID sig    SIG file id 65515970  partner online url http:  filedwn.ru coi guid    GUID sig    SIG sid 7763 pid 3875   mpcln 9516\   
+                 success : true
+              
+             
+                 proc :  C:\\WINDOWS\\system32\\reg.exe C:\\WINDOWS\\system32\\reg.exe\  import C: DOCUME 1 <USER> 1 LOCALS 1 Temp ie.reg\   
+                 success : true
+              
+             
+                 proc :  C:\\WINDOWS\\system32\\netsh.exe C:\\WINDOWS\\system32\\netsh.exe\  firewall add allowedprogram \ C:\\Program Files\\Mail.Ru\\Sputnik\\SputnikFlashPlayer.exe\  \ C:\\Program Files\\Mail.Ru\\Sputnik\\SputnikFlashPlayer.exe\  ENABLE ALL\   
+                 success : true
+              
+             
+                 proc :  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\GuardMailRu.exe C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\GuardMailRu.exe\   INSTALL2  LANG ru  GUID  F807D456 6825 4CC1 9627 1DC9EABC6790 \   
+                 success : true
+              
+             
+                 proc :  C:\\Program Files\\Mail.Ru\\Guard\\GuardMailRu.exe  
+                 success : true
+             
+          
+         injected :  
+             
+                 proc :  wmiprvse.exe  
+                 success : true
+              
+             
+                 proc :  reg.exe  
+                 success : true
+              
+             
+                 proc :  GuardMailRu.exe  
+                 success : true
+             
+          
+         shellcmds :  
+             
+                 cmd :   open  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\mailrusputnik.exe  silent  rfr openpart5  partner new url http:  filedwn.ru install guid    GUID sig    SIG file id 65515970  partner online url http:  filedwn.ru coi guid    GUID sig    SIG sid 7763 pid 3875   mpcln 9516  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\   
+                 success : true
+              
+             
+                 cmd :   open  reg.exeimport C: DOCUME 1 <USER> 1 LOCALS 1 Temp ie.reg   null    
+                 success : true
+              
+             
+                 cmd :   open  netshfirewall add allowedprogram C:\\Program Files\\Mail.Ru\\Sputnik\\SputnikFlashPlayer.exe\  \ C:\\Program Files\\Mail.Ru\\Sputnik\\SputnikFlashPlayer.exe\  ENABLE ALL\      
+                 success : true
+              
+             
+                 cmd :   open  C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\GuardMailRu.exe INSTALL2  LANG ru  GUID  F807D456 6825 4CC1 9627 1DC9EABC6790   C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp   
+                 success : true
+             
+          
+         terminated :    
+         tree :  
+             
+                 children :    
+                 name :  e80575d3c6ce6ddf4254ef7f1d446e72a1db9c7900e3c9dbb56114864e0ab566  
+                 pid : 1024
+             
+         
+      
+     registry :  
+         deleted :    
+         set :  
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Microsoft\\windows\\CurrentVersion\\Internet Settings\\MigrateProxy  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Microsoft\\windows\\CurrentVersion\\Internet Settings\\ProxyEnable  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  0 
+              
+             
+                 key :  HKEY CURRENT CONFIG\\Software\\Microsoft\\windows\\CurrentVersion\\Internet Settings\\ProxyEnable  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  0 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Microsoft\\windows\\CurrentVersion\\Internet Settings\\Connections\\SavedLegacySettings  
+                 success : true 
+                 type :  REG BINARY  
+                 val :   
+              
+             
+                 key :  HKEY CURRENT USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\\\ProxyBypass  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY CURRENT USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\\\IntranetName  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY CURRENT USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\\\UNCAsIntranet  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY CURRENT USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Personal  
+                 success : true 
+                 type :  REG SZ  
+                 val :  C:\\Documents and Settings\\<USER>\\My Documents 
+              
+             
+                 key :  HKEY CURRENT USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\MountPoints2\\ a20cd692 8e41 11e1 9999 806d6172696f \\\\BaseClass  
+                 success : true 
+                 type :  REG SZ  
+                 val :  Drive 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Common Documents  
+                 success : true 
+                 type :  REG SZ  
+                 val :  C:\\Documents and Settings\\All Users\\Documents 
+              
+             
+                 key :  HKEY CURRENT USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Desktop  
+                 success : true 
+                 type :  REG SZ  
+                 val :  C:\\Documents and Settings\\<USER>\\Desktop 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Common Desktop  
+                 success : true 
+                 type :  REG SZ  
+                 val :  C:\\Documents and Settings\\All Users\\Desktop 
+              
+             
+                 key :  HKEY CURRENT USER\\Software\\Microsoft\\Windows\\ShellNoRoam\\MUICache\\ null \\C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\mailrusputnik.exe  
+                 success : true 
+                 type :  REG SZ  
+                 val :  MailRuSputnik 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\WBEM\\WDM\\C:\\WINDOWS\\system32\\DRIVERS\\ACPI.sys ACPIMOFResource   
+                 success : true 
+                 type :  REG SZ  
+                 val :  LowDateTime:41836544 HighDateTime:29924836   Binary mof compiled successfully 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\WBEM\\WDM\\C:\\WINDOWS\\system32\\drivers\\ac97intc.sys MofResourceName   
+                 success : true 
+                 type :  REG SZ  
+                 val :  LowDateTime: 478006784 HighDateTime:29435603   Binary mof compiled successfully 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\WBEM\\WDM\\C:\\WINDOWS\\system32\\DRIVERS\\mssmbios.sys MofResource   
+                 success : true 
+                 type :  REG SZ  
+                 val :  LowDateTime:41836544 HighDateTime:29924836   Binary mof compiled successfully 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\WBEM\\WDM\\C:\\WINDOWS\\system32\\DRIVERS\\pcntpci5.sys NdisMofResource   
+                 success : true 
+                 type :  REG SZ  
+                 val :  LowDateTime: 1403039488 HighDateTime:29435602   Binary mof compiled successfully 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\WBEM\\WDM\\C:\\WINDOWS\\system32\\DRIVERS\\ipnat.sys IPNATMofResource   
+                 success : true 
+                 type :  REG SZ  
+                 val :  LowDateTime:41836544 HighDateTime:29924836   Binary mof compiled successfully 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\WBEM\\WDM\\C:\\WINDOWS\\System32\\Drivers\\HTTP.sys UlMofResource   
+                 success : true 
+                 type :  REG SZ  
+                 val :  LowDateTime:41836544 HighDateTime:29924836   Binary mof compiled successfully 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Local AppData  
+                 success : true 
+                 type :  REG SZ  
+                 val :  C:\\Documents and Settings\\<USER>\\Local Settings\\Application Data 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Mail.Ru\\IE Bar\\Settings\\GUID  
+                 success : true 
+                 type :  REG SZ  
+                 val :   F807D456 6825 4CC1 9627 1DC9EABC6790  
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Mail.Ru\\IE Bar\\Recovery\\ie\\DefaultSearchUrl  
+                 success : true 
+                 type :  REG SZ  
+                 val :   
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Mail.Ru\\IE Bar\\Recovery\\ie\\HomePage  
+                 success : true 
+                 type :  REG SZ  
+                 val :  http:  www.microsoft.com isapi redir.dll prd ie pver 6 ar msnhome 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Mail.Ru\\IE Bar\\Recovery\\ie\\DefaultScope  
+                 success : true 
+                 type :  REG SZ  
+                 val :   
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Microsoft\\Internet Explorer\\Main\\Start Page  
+                 success : true 
+                 type :  REG SZ  
+                 val :  http:  www.mail.ru cnt 9516 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\ FFEBBF0A C22C 4172 89FF 45215A135AC7 \\URL  
+                 success : true 
+                 type :  REG SZ  
+                 val :  http:  go.mail.ru search utf8in 1 fr ietb q  SearchTerms  
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\ FFEBBF0A C22C 4172 89FF 45215A135AC7 \\FaviconURLFallback  
+                 success : true 
+                 type :  REG SZ  
+                 val :  http:  go.mail.ru favicon.ico 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\ FFEBBF0A C22C 4172 89FF 45215A135AC7 \\ShowSearchSuggestions  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\ FFEBBF0A C22C 4172 89FF 45215A135AC7 \\SuggestionsURL  
+                 success : true 
+                 type :  REG SZ  
+                 val :  http:  suggests.go.mail.ru ie8 q  SearchTerms  
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\DefaultScope  
+                 success : true 
+                 type :  REG SZ  
+                 val :   FFEBBF0A C22C 4172 89FF 45215A135AC7  
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Common Favorites  
+                 success : true 
+                 type :  REG SZ  
+                 val :  C:\\Documents and Settings\\All Users\\Favorites 
+              
+             
+                 key :  HKEY CURRENT USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Start Menu  
+                 success : true 
+                 type :  REG SZ  
+                 val :  C:\\Documents and Settings\\<USER>\\Start Menu 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Common Start Menu  
+                 success : true 
+                 type :  REG SZ  
+                 val :  C:\\Documents and Settings\\All Users\\Start Menu 
+              
+             
+                 key :  HKEY CURRENT USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\My Pictures  
+                 success : true 
+                 type :  REG SZ  
+                 val :  C:\\Documents and Settings\\<USER>\\My Documents\\My Pictures 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\CommonPictures  
+                 success : true 
+                 type :  REG SZ  
+                 val :  C:\\Documents and Settings\\All Users\\Documents\\My Pictures 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\CommonMusic  
+                 success : true 
+                 type :  REG SZ  
+                 val :  C:\\Documents and Settings\\All Users\\Documents\\My Music 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\CommonVideo  
+                 success : true 
+                 type :  REG SZ  
+                 val :  C:\\Documents and Settings\\All Users\\Documents\\My Videos 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Mail.Ru\\IE Bar\\Settings\\Layout ID  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  6 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Microsoft\\Internet Explorer\\Toolbar\\WebBrowser\\ITBarLayout  
+                 success : true 
+                 type :  REG BINARY  
+                 val :   
+              
+             
+                 key :  0x00000142\\CLSID\\ 8984B388 A5BB 4DF7 B274 77B879E179DB \\InprocServer32\\ThreadingModel  
+                 success : true 
+                 type :  REG SZ  
+                 val :  Apartment 
+              
+             
+                 key :  0x00000142\\CLSID\\ 8984B388 A5BB 4DF7 B274 77B879E179DB \\CLSID\\ 09900DE8 1DCA 443F 9243 26FF581438AF \\InprocServer32\\ThreadingModel  
+                 success : true 
+                 type :  REG SZ  
+                 val :  Apartment 
+              
+             
+                 key :  HKEY CURRENT USER\\Software\\Microsoft\\Windows\\ShellNoRoam\\MUICache\\ null \\C:\\WINDOWS\\system32\\reg.exe  
+                 success : true 
+                 type :  REG SZ  
+                 val :  Registry Console Tool 
+              
+             
+                 key :  HKEY CURRENT USER\\Software\\Microsoft\\Windows\\ShellNoRoam\\MUICache\\ null \\C:\\WINDOWS\\system32\\netsh.exe  
+                 success : true 
+                 type :  REG SZ  
+                 val :  Network Command Shell 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\MailRuSputnik\\UninstallString  
+                 success : true 
+                 type :  REG SZ  
+                 val :  C:\\Program Files\\Mail.Ru\\Sputnik\\mailrusputnik.exe uninstall 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\MailRuSputnik\\DisplayVersion  
+                 success : true 
+                 type :  REG SZ  
+                 val :  2.4.1.154 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\MailRuSputnik\\Publisher  
+                 success : true 
+                 type :  REG SZ  
+                 val :  Mail.Ru 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\MailRuSputnik\\DisplayIcon  
+                 success : true 
+                 type :  REG SZ  
+                 val :  C:\\Program Files\\Mail.Ru\\Sputnik\\mailrusputnik.exe 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\MailRuSputnik\\InstallLocation  
+                 success : true 
+                 type :  REG SZ  
+                 val :  C:\\Program Files\\Mail.Ru\\Sputnik 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\MailRuSputnik\\VersionMajor  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  2 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\MailRuSputnik\\VersionMinor  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  4 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Mail.Ru\\IE Bar\\Settings\\NEW  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Mail.Ru\\IE Bar\\Settings\\RFR  
+                 success : true 
+                 type :  REG SZ  
+                 val :  openpart5 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Mail.Ru\\IE Bar\\Settings\\partner new url  
+                 success : true 
+                 type :  REG SZ  
+                 val :  http:  filedwn.ru install guid  F807D456 6825 4CC1 9627 1DC9EABC6790  sig 3033324401 file id 65515970 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Mail.Ru\\IE Bar\\Settings\\partner online url  
+                 success : true 
+                 type :  REG SZ  
+                 val :  http:  filedwn.ru coi guid  F807D456 6825 4CC1 9627 1DC9EABC6790  sig 3033324401 sid 7763 pid 3875 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Mail.Ru\\IE Bar\\Settings\\new sig  
+                 success : true 
+                 type :  REG SZ  
+                 val :  23d7400e42ed3a44f742c01c71229c8e 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Mail.Ru\\sputnik installs  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Mail.Ru\\IE Bar\\LiteMode  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  0 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Mail.Ru\\IE Bar\\Settings\\SearchSettings  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  2 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Mail.Ru\\IE Bar\\Settings\\UseMailto  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Mail.Ru\\IE Bar\\Settings\\EnableMusic  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Mail.Ru\\IE Bar\\Settings\\KeepHistory  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY USERS\\S 1 5 21 1275210071 920026266 1060284298 1003\\Software\\Mail.Ru\\IE Bar\\Settings\\AppendOnNavigateError  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY CURRENT USER\\Software\\Microsoft\\Windows\\ShellNoRoam\\MUICache\\ null \\C:\\DOCUME 1\\<USER> 1\\LOCALS 1\\Temp\\GuardMailRu.exe  
+                 success : true 
+                 type :  REG SZ  
+                 val :  GuardMailRu Module 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\eappcfg\\LogSessionName  
+                 success : true 
+                 type :  REG EXPAND SZ  
+                 val :  stdout 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\eappcfg\\Active  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\eappcfg\\ControlFlags  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\eappcfg\\traceIdentifier\\Guid  
+                 success : true 
+                 type :  REG SZ  
+                 val :  5f31090b d990 4e91 b16d 46121d0255aa 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\eappcfg\\traceIdentifier\\BitNames  
+                 success : true 
+                 type :  REG SZ  
+                 val :   Error Unusual Info Debug 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\eappprxy\\LogSessionName  
+                 success : true 
+                 type :  REG EXPAND SZ  
+                 val :  stdout 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\eappprxy\\Active  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\eappprxy\\ControlFlags  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\eappprxy\\traceIdentifier\\Guid  
+                 success : true 
+                 type :  REG SZ  
+                 val :  5f31090b d990 4e91 b16d 46121d0255aa 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\eappprxy\\traceIdentifier\\BitNames  
+                 success : true 
+                 type :  REG SZ  
+                 val :   Error Unusual Info Debug 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\QUtil\\LogSessionName  
+                 success : true 
+                 type :  REG EXPAND SZ  
+                 val :  stdout 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\QUtil\\Active  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\QUtil\\ControlFlags  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\QUtil\\traceIdentifier\\Guid  
+                 success : true 
+                 type :  REG SZ  
+                 val :  8aefce96 4618 42ff a057 3536aa78233e 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\QUtil\\traceIdentifier\\BitNames  
+                 success : true 
+                 type :  REG SZ  
+                 val :   Error Unusual Info Debug 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\Tracing\\FWCFG\\EnableFileTracing  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  0 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\Tracing\\FWCFG\\EnableConsoleTracing  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  0 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\Tracing\\FWCFG\\FileTracingMask  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  0 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\Tracing\\FWCFG\\ConsoleTracingMask  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  0 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\Tracing\\FWCFG\\MaxFileSize  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  0 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Microsoft\\Tracing\\FWCFG\\FileDirectory  
+                 success : true 
+                 type :  REG EXPAND SZ  
+                 val :   windir \\tracing 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\NAP\\Netsh\\LogSessionName  
+                 success : true 
+                 type :  REG EXPAND SZ  
+                 val :  stdout 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\NAP\\Netsh\\Active  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\NAP\\Netsh\\ControlFlags  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\NAP\\Netsh\\Napmontr\\Guid  
+                 success : true 
+                 type :  REG SZ  
+                 val :  710adbf0 ce88 40b4 a50d 231ada6593f0 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\NAP\\Netsh\\Napmontr\\BitNames  
+                 success : true 
+                 type :  REG SZ  
+                 val :   NAP TRACE BASE NAP TRACE NETSH 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\qagent\\LogSessionName  
+                 success : true 
+                 type :  REG EXPAND SZ  
+                 val :  stdout 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\qagent\\Active  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\qagent\\ControlFlags  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\qagent\\traceIdentifier\\Guid  
+                 success : true 
+                 type :  REG SZ  
+                 val :  b0278a28 76f1 4e15 b1df 14b209a12613 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Tracing\\Microsoft\\qagent\\traceIdentifier\\BitNames  
+                 success : true 
+                 type :  REG SZ  
+                 val :   Error Unusual Info Debug 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SYSTEM\\CurrentControlSet\\Services\\SharedAccess\\Parameters\\FirewallPolicy\\StandardProfile\\AuthorizedApplications\\List\\C:\\Program Files\\Mail.Ru\\Sputnik\\SputnikFlashPlayer.exe  
+                 success : true 
+                 type :  REG SZ  
+                 val :  C:\\Program Files\\Mail.Ru\\Sputnik\\SputnikFlashPlayer.exe: :Enabled:C:\\Program Files\\Mail.Ru\\Sputnik\\SputnikFlashPlayer.exe 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Mail.Ru\\Guard\\Language  
+                 success : true 
+                 type :  REG SZ  
+                 val :  ru 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\Software\\Mail.Ru\\Guard\\UserGUID  
+                 success : true 
+                 type :  REG SZ  
+                 val :   F807D456 6825 4CC1 9627 1DC9EABC6790  
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Mail.Ru\\GuardNEW  
+                 success : true 
+                 type :  REG DWORD  
+                 val :  1 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Guard.Mail.ru\\DisplayIcon  
+                 success : true 
+                 type :  REG SZ  
+                 val :  C:\\Program Files\\Mail.Ru\\Guard\\GuardMailRu.exe\ \  
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Guard.Mail.ru\\DisplayName  
+                 success : true 
+                 type :  REG SZ  
+                 val :  Guard Mail.Ru 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Guard.Mail.ru\\DisplayVersion  
+                 success : true 
+                 type :  REG SZ  
+                 val :  1.0.0.493 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Guard.Mail.ru\\Publisher  
+                 success : true 
+                 type :  REG SZ  
+                 val :  Mail.ru 
+              
+             
+                 key :  HKEY LOCAL MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Guard.Mail.ru\\UninstallString  
+                 success : true 
+                 type :  REG SZ  
+                 val :  C:\\Program Files\\Mail.Ru\\Guard\\GuardMailRu.exe\   uninstall\  
+             
+         
+      
+     runtime dlls :  
+         
+             file :  secur32.dll  
+             success : true
+          
+         
+             file :  shell32.dll  
+             success : true
+          
+         
+             file :  wsock32  
+             success : true
+          
+         
+             file :  ws2 32  
+             success : true
+          
+         
+             file :  comctl32.dll  
+             success : true
+          
+         
+             file :  rasapi32.dll  
+             success : true
+          
+         
+             file :  rtutils.dll  
+             success : true
+          
+         
+             file :  rpcrt4.dll  
+             success : true
+          
+         
+             file :  sensapi.dll  
+             success : true
+          
+         
+             file :  ntdll.dll  
+             success : true
+          
+         
+             file :  userenv.dll  
+             success : true
+          
+         
+             file :  netapi32.dll  
+             success : true
+          
+         
+             file :  urlmon.dll  
+             success : true
+          
+         
+             file :  wininet.dll  
+             success : true
+          
+         
+             file :  c:\\windows\\system32\\mswsock.dll  
+             success : true
+          
+         
+             file :  dnsapi.dll  
+             success : true
+          
+         
+             file :  rasadhlp.dll  
+             success : true
+          
+         
+             file :  hnetcfg.dll  
+             success : true
+          
+         
+             file :  c:\\windows\\system32\\wshtcpip.dll  
+             success : true
+          
+         
+             file :  ole32.dll  
+             success : true
+          
+         
+             file :  netapi32  
+             success : true
+          
+         
+             file :  setupapi.dll  
+             success : true
+          
+         
+             file :  clbcatq.dll  
+             success : true
+          
+         
+             file :  version.dll  
+             success : true
+          
+         
+             file :  advapi32.dll  
+             success : true
+          
+         
+             file :  ws2 32.dll  
+             success : true
+          
+         
+             file :  ntshrui.dll  
+             success : true
+          
+         
+             file :  linkinfo.dll  
+             success : true
+          
+         
+             file :  c:\\program files\\mail.ru\\sputnik\\mailrusputnik.dll  
+             success : true
+          
+         
+             file :  apphelp.dll  
+             success : true
+          
+         
+             file :  riched20.dll  
+             success : true
+          
+         
+             file :  ipv6mon.dll  
+             success : true
+          
+         
+             file :  ipmontr.dll  
+             success : true
+          
+         
+             file :  ifmon.dll  
+             success : true
+          
+         
+             file :  ippromon.dll  
+             success : true
+          
+         
+             file :  rasmontr.dll  
+             success : true
+          
+         
+             file :  ipxmontr.dll  
+             success : true
+          
+         
+             file :  ipxpromn.dll  
+             success : true
+          
+         
+             file :  dgnet.dll  
+             success : true
+          
+         
+             file :  netsh.exe  
+             success : true
+          
+         
+             file :  hnetmon.dll  
+             success : true
+          
+         
+             file :  fwcfg.dll  
+             success : true
+          
+         
+             file :  oleaut32.dll  
+             success : true
+          
+         
+             file :  napmontr.dll  
+             success : true
+          
+         
+             file :  dot3cfg.dll  
+             success : true
+          
+         
+             file :  ole32  
+             success : true
+          
+         
+             file :  shlwapi.dll  
+             success : true
+          
+         
+             file :  c:\\windows\\system32\\msv1 0.dll  
+             success : true
+          
+         
+             file :  kernel32.dll  
+             success : true
+         
+      
+     service :  
+         controlled :    
+         created :    
+         deleted :    
+         opened :  
+             
+                 name :  RASMAN  
+                 success : true
+              
+             
+                 name :  NapAgent  
+                 success : true
+              
+             
+                 name :  Guard.Mail.ru  
+                 success : false
+              
+             
+                 name :  Guard.Mail.ru  
+                 success : true
+             
+          
+         opened managers :  
+             
+                 database :  SERVICES ACTIVE DATABASE  
+                 machine :  localhost  
+                 success : true
+              
+             
+                 database :  ServicesActive  
+                 machine :  localhost  
+                 success : true
+             
+          
+         started :   
+      
+     windows :  
+         searched :   
+     
+ 

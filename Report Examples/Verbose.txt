@@ -1,0 +1,552 @@
+
+ Results for MD5: fb4ddcd8a60dd7e20f72154c27e7b75d
+ Results for SHA1: 34cf2f9e0718abbb6f193b5f64c381cce2e3fa89
+ Results for SHA256: e80575d3c6ce6ddf4254ef7f1d446e72a1db9c7900e3c9dbb56114864e0ab566
+
+ Detected by: 34 45
+ Kaspersky Detection:not a virus:Downloader.Win32.LMN.e
+ Scanned on: 2013 04 18 20:56:50
+ First Seen: 2013 02 19 03:03:55
+ Last Seen: 2013 04 18 20:56:50
+ Unique Sources: 7
+ Submission Names:
+   var www clean mx virusesevidence output.10248340.txt
+  ahr0cdovl3d3dy51bmliexrlcy5jb20vwxu5zmfasu9mwwnc.exe
+  fb4ddcd8a60dd7e20f72154c27e7b75d
+  Downloader
+  Z:\MaliciousURLDetector\REPOSITORY\DOWNLOADED\14\b2\ahr0cdovl3d3dy51bmliexrlcy5jb20vwxu5zmfasu9mwwnc.exe
+  Downloader.exe
+  \sonas\share\samples\fb\4d\dc\d8\fb4ddcd8a60dd7e20f72154c27e7b75d.34cf2f9e0718abbb6f193b5f64c381cce2e3fa89
+  a920dfd68ce720dc12997e1acf3ea6918554eea4
+  10248340
+
+
+ Verbose VirusTotal Information Output:
+ 
+     ITW urls :  
+         http:  dlt3.mail.ru output archive 00 0b 08 07 ahr0cdovl3d3dy51bmliexrlcy5jb20vwxu5zmfasu9mwwnc.exe 
+      
+     additional info :  
+         exiftool :  
+             CharacterSet :  Windows  Cyrillic  
+             CodeSize :  32768  
+             EntryPoint :  0x1ecc  
+             FileAccessDate :  2013:04:18 22:01:59 01:00  
+             FileCreateDate :  2013:04:18 22:01:59 01:00  
+             FileDescription :  Downloader  
+             FileFlagsMask :  0x003f  
+             FileOS :  Win32  
+             FileSubtype :  0  
+             FileType :  Win32 EXE  
+             FileVersion :  1  0  0  0  
+             FileVersionNumber :  1.0.0.0  
+             ImageVersion :  0.0  
+             InitializedDataSize :  29184  
+             InternalName :  Downloader  
+             LanguageCode :  Russian  
+             LegalCopyright :  Copyright c 2005   2012  
+             LinkerVersion :  10.0  
+             MIMEType :  application octet stream  
+             MachineType :  Intel 386 or later  and compatibles  
+             OSVersion :  5.1  
+             ObjectFileType :  Executable application  
+             OriginalFilename :  Downloader.exe  
+             PEType :  PE32  
+             ProductName :  Downloader  
+             ProductVersion :  1  0  0  0  
+             ProductVersionNumber :  1.0.0.0  
+             Subsystem :  Windows GUI  
+             SubsystemVersion :  5.1  
+             TimeStamp :  2012:12:24 14:42:41 01:00  
+             UninitializedDataSize :  0 
+          
+         imports :  
+             COMDLG32.dll :  
+                 GetSaveFileNameA 
+              
+             GDI32.dll :  
+                 GetStockObject  
+                 CreateFontW 
+              
+             KERNEL32.dll :  
+                 GetLastError  
+                 HeapFree  
+                 GetStdHandle  
+                 SystemTimeToFileTime  
+                 ReleaseMutex  
+                 lstrlenA  
+                 lstrcmpiA  
+                 WaitForSingleObject  
+                 HeapAlloc  
+                 GetModuleFileNameA  
+                 GetCommandLineW  
+                 SizeofResource  
+                 lstrcatA  
+                 LockResource  
+                 SetFileTime  
+                 DeleteFileA  
+                 WideCharToMultiByte  
+                 GetProcessHeap  
+                 CreateMutexA  
+                 SetFilePointer  
+                 GetTempPathA  
+                 CreateThread  
+                 GetModuleHandleA  
+                 GetSystemTimeAsFileTime  
+                 FindFirstFileA  
+                 lstrcpyA  
+                 CloseHandle  
+                 FreeConsole  
+                 FindClose  
+                 MoveFileExA  
+                 FreeResource  
+                 SetFileAttributesA  
+                 MoveFileA  
+                 WriteConsoleA  
+                 LoadResource  
+                 WriteFile  
+                 AllocConsole  
+                 Sleep  
+                 CreateFileA  
+                 ExitProcess  
+                 OutputDebugStringA  
+                 FindResourceA  
+                 SetLastError 
+              
+             SHELL32.dll :  
+                 ShellExecuteExA  
+                 CommandLineToArgvW  
+                 SHGetSpecialFolderPathA  
+                 ShellExecuteA 
+              
+             SHLWAPI.dll :  
+                 PathFindFileNameA  
+                 PathFindExtensionA  
+                 wvnsprintfA  
+                 PathFileExistsA 
+              
+             USER32.dll :  
+                 SetFocus  
+                 EndDialog  
+                 KillTimer  
+                 DefWindowProcA  
+                 ShowWindow  
+                 SetWindowPos  
+                 SendDlgItemMessageA  
+                 SetWindowLongW  
+                 MessageBoxW  
+                 GetWindowRect  
+                 EnableWindow  
+                 MoveWindow  
+                 MessageBoxA  
+                 SetWindowLongA  
+                 DialogBoxParamA  
+                 SetWindowTextA  
+                 SendMessageA  
+                 GetDlgItem  
+                 ScreenToClient  
+                 GetWindowLongA  
+                 SetTimer  
+                 LoadIconA  
+                 GetWindowLongW  
+                 GetWindowTextA 
+              
+             WININET.dll :  
+                 HttpSendRequestA  
+                 InternetOpenUrlA  
+                 InternetSetOptionA  
+                 HttpOpenRequestA  
+                 InternetReadFile  
+                 InternetCloseHandle  
+                 InternetOpenA  
+                 InternetConnectA  
+                 HttpQueryInfoA 
+             
+          
+         magic :  PE32 executable for MS Windows  GUI  Intel 80386 32 bit  
+         pe entry point : 7884 
+         pe machine type : 332 
+         pe resource langs :  
+             ENGLISH US : 1 
+             RUSSIAN : 9
+          
+         pe resource list :  
+             01b5bce755a12e62ac86b1f61e7fe2533cc9bedffee6739c026b501d208c2aa6 :  data  
+             3078a2cfd16559d45e131d4054a8914e992ef64249c29f46f8632256e05f90aa :  data  
+             450d65bee6e3c80f4547e888a95d3e0f1448072d508c80bec187ff94e151fbf0 :  data  
+             77a1efb6136f52dd2372987b13bf486aa75baeacb93bad009aa3e284c57b8694 :  data  
+             7adafc350f7d7969a17f134f00b95b9f453051a23ceca97d55d1e932e62fb9b6 :  ASCII text  
+             83c721641a28e25692d1eebf952100b8e084fc28302800012bdff5785472d167 :  application x ms dos executable  
+             933d33e4c5eb55bf824f7ce6fd8740235e73a205c3f5ff39209be8888d454843 :  data  
+             a58d427482deb9e743f44550f57a6354eae506592258b149d3a1bd220afa96b4 :  data  
+             f977b3d2e33d5af0bf679d6a13e9b9b67b60728d5409492a34894620977a2608 :  data  
+             fb337da40d0ad3fe058fb77487a1afbb4f236d42af161178527370ac8c5d3e4f :  data 
+          
+         pe resource types :  
+             BIN : 1 
+             RT DIALOG : 3 
+             RT GROUP ICON : 1 
+             RT ICON : 3 
+             RT MANIFEST : 1 
+             RT VERSION : 1
+          
+         pe timestamp : 1356356561 
+         sections :  
+             
+                 .text  
+                4096 
+                32765 
+                32768 
+                 5.87  
+                 1b589efc5798f3ba7b083cf6d296a324 
+              
+             
+                 .rdata  
+                36864 
+                4878 
+                5120 
+                 5.43  
+                 7c67c4d0717a95df45da00b985d7dddd 
+              
+             
+                 .data  
+                45056 
+                12 
+                512 
+                 0.06  
+                 deb4672d850c66f71c4e3ff498429709 
+              
+             
+                 .rsrc  
+                49152 
+                21956 
+                22016 
+                 4.46  
+                 8fd94fcaa4c784e290cb22c6e62144be 
+              
+             
+                 .reloc  
+                73728 
+                1438 
+                1536 
+                 5.58  
+                 5e8c4f23b322d32b6d8ac3bc9253a7da 
+             
+          
+         sigcheck :  
+             copyright :  Copyright c 2005   2012  
+             description :  Downloader  
+             file version :  1  0  0  0  
+             internal name :  Downloader  
+             original name :  Downloader.exe  
+             product :  Downloader  
+             signers :  LLC Mail.Ru\n               Thawte Code Signing CA   G2\n               thawte Primary Root CA  
+             signing date :  2:18 PM 2 23 2013 
+          
+         trid :  Win32 Executable MS Visual C    generic   64.5  \nWin32 Dynamic Link Library  generic   13.6  \nWin32 Executable  generic   13.4  \nGeneric Win DOS Executable  4.1  \nDOS Executable Generic  4.1   
+      
+     first seen :  2013 02 19 03:03:55  
+     last seen :  2013 04 18 20:56:50  
+     md5 :  fb4ddcd8a60dd7e20f72154c27e7b75d  
+     permalink :  https:  www.virustotal.com file e80575d3c6ce6ddf4254ef7f1d446e72a1db9c7900e3c9dbb56114864e0ab566 analysis 1366318610   
+     positives : 34 
+     resource :  e80575d3c6ce6ddf4254ef7f1d446e72a1db9c7900e3c9dbb56114864e0ab566  
+     response code : 1 
+     scan date :  2013 04 18 20:56:50  
+     scan id :  e80575d3c6ce6ddf4254ef7f1d446e72a1db9c7900e3c9dbb56114864e0ab566 1366318610  
+     scans :  
+         AVG :  
+             detected : true 
+             result :  MLoader.A  
+             update :  20130418  
+             version :  10.0.0.1190 
+          
+         Agnitum :  
+             detected : true 
+             result :  Trojan.DL.Agent jKTJuvOdHIA  
+             update :  20130418  
+             version :  5.5.1.3 
+          
+         AhnLab V3 :  
+             detected : true 
+             result :  Adware Win32.Downloader  
+             update :  20130418  
+             version :  2013.04.19.00 
+          
+         AntiVir :  
+             detected : false 
+             result : null 
+             update :  20130418  
+             version :  7.11.73.120 
+          
+         Antiy AVL :  
+             detected : false 
+             result : null 
+             update :  20130418  
+             version :  2.0.3.7 
+          
+         Avast :  
+             detected : true 
+             result :  Win32:Downloader SLH  PUP   
+             update :  20130418  
+             version :  6.0.1289.0 
+          
+         BitDefender :  
+             detected : true 
+             result :  Gen:Variant.Zusy.Elzob.21897  
+             update :  20130418  
+             version :  7.2 
+          
+         ByteHero :  
+             detected : false 
+             result : null 
+             update :  20130418  
+             version :  1.0.0.1 
+          
+         CAT QuickHeal :  
+             detected : false 
+             result : null 
+             update :  20130418  
+             version :  12.00 
+          
+         ClamAV :  
+             detected : true 
+             result :  Win.Trojan.Downloader 3427  
+             update :  20130418  
+             version :  0.97.3.0 
+          
+         Commtouch :  
+             detected : true 
+             result :  W32 Agent.RC.gen Eldorado  
+             update :  20130418  
+             version :  5.4.1.7 
+          
+         Comodo :  
+             detected : true 
+             result :  ApplicUnwnt.Win32.LoadMoney.B  
+             update :  20130418  
+             version :  15977 
+          
+         DrWeb :  
+             detected : true 
+             result :  Adware.Downware.774  
+             update :  20130418  
+             version :   
+          
+         ESET NOD32 :  
+             detected : true 
+             result :  Win32 LoadMoney.A  
+             update :  20130418  
+             version :  8243 
+          
+         Emsisoft :  
+             detected : true 
+             result :  Gen:Variant.Zusy.Elzob.21897  B   
+             update :  20130418  
+             version :  3.0.0.575 
+          
+         F Prot :  
+             detected : true 
+             result :  W32 Agent.RC.gen Eldorado  
+             update :  20130418  
+             version :  4.7.1.166 
+          
+         F Secure :  
+             detected : true 
+             result :  Gen:Variant.Zusy.Elzob.21897  
+             update :  20130418  
+             version :  11.0.19020.35 
+          
+         Fortinet :  
+             detected : true 
+             result :  W32 Agent.FEZ tr.dldr  
+             update :  20130418  
+             version :  5.0.43.0 
+          
+         GData :  
+             detected : true 
+             result :  Gen:Variant.Zusy.Elzob.21897  
+             update :  20130418  
+             version :  22 
+          
+         Ikarus :  
+             detected : true 
+             result :  Win32.SuspectCrc  
+             update :  20130418  
+             version :  T3.1.4.0.0 
+          
+         Jiangmin :  
+             detected : true 
+             result :  Trojan Genome.dott  
+             update :  20130418  
+             version :  16.0.100 
+          
+         K7AntiVirus :  
+             detected : true 
+             result :  Riskware  
+             update :  20130418  
+             version :  9.164.8548 
+          
+         K7GW :  
+             detected : false 
+             result : null 
+             update :  20130418  
+             version :  12.7.0.8 
+          
+         Kaspersky :  
+             detected : true 
+             result :  not a virus:Downloader.Win32.LMN.e  
+             update :  20130418  
+             version :  9.0.0.837 
+          
+         Kingsoft :  
+             detected : false 
+             result : null 
+             update :  20130415  
+             version :  2013.4.9.267 
+          
+         Malwarebytes :  
+             detected : true 
+             result :  PUP.Downware.RU  
+             update :  20130418  
+             version :  1.75.0.1 
+          
+         McAfee :  
+             detected : true 
+             result :  Artemis FB4DDCD8A60D  
+             update :  20130418  
+             version :  5.400.0.1158 
+          
+         McAfee GW Edition :  
+             detected : true 
+             result :  Heuristic.BehavesLike.Win32.Suspicious.H  
+             update :  20130418  
+             version :  2012.1 
+          
+         MicroWorld eScan :  
+             detected : true 
+             result :  Gen:Variant.Zusy.Elzob.21897  
+             update :  20130418  
+             version :  12.0.250.0 
+          
+         Microsoft :  
+             detected : false 
+             result : null 
+             update :  20130418  
+             version :  1.9402 
+          
+         NANO Antivirus :  
+             detected : true 
+             result :  Trojan.Win32.Downware.bkrtud  
+             update :  20130418  
+             version :  0.24.0.52049 
+          
+         Norman :  
+             detected : false 
+             result : null 
+             update :  20130418  
+             version :  7.00.22 
+          
+         PCTools :  
+             detected : true 
+             result :  Downloader.Generic  
+             update :  20130418  
+             version :  9.0.0.2 
+          
+         Panda :  
+             detected : true 
+             result :  Trj Genetic.gen  
+             update :  20130418  
+             version :  10.0.3.5 
+          
+         SUPERAntiSpyware :  
+             detected : true 
+             result :  Trojan.Agent Gen Zusy  
+             update :  20130418  
+             version :  5.6.0.1008 
+          
+         Symantec :  
+             detected : true 
+             result :  Downloader  
+             update :  20130418  
+             version :  20121.3.0.76 
+          
+         TheHacker :  
+             detected : false 
+             result : null 
+             update :  20130418  
+             version :  None 
+          
+         TotalDefense :  
+             detected : true 
+             result :  Win32 Tnega.ARLO  
+             update :  20130418  
+             version :  37.0.10384 
+          
+         TrendMicro :  
+             detected : true 
+             result :  TROJ GEN.RCBCEBK  
+             update :  20130418  
+             version :  9.740.0.1012 
+          
+         TrendMicro HouseCall :  
+             detected : true 
+             result :  TROJ GEN.RCBCEBK  
+             update :  20130418  
+             version :  9.700.0.1001 
+          
+         VBA32 :  
+             detected : false 
+             result : null 
+             update :  20130418  
+             version :  3.12.20.2 
+          
+         VIPRE :  
+             detected : true 
+             result :  Trojan.Win32.Dwnldr.y  v   
+             update :  20130418  
+             version :  16982 
+          
+         ViRobot :  
+             detected : false 
+             result : null 
+             update :  20130418  
+             version :  2011.4.7.4223 
+          
+         eSafe :  
+             detected : true 
+             result :  Win32.Trojan  
+             update :  20130418  
+             version :  7.0.17.0 
+          
+         nProtect :  
+             detected : true 
+             result :  Trojan W32.Agent.67008.C  
+             update :  20130418  
+             version :  2013 04 18.03 
+         
+      
+     sha1 :  34cf2f9e0718abbb6f193b5f64c381cce2e3fa89  
+     sha256 :  e80575d3c6ce6ddf4254ef7f1d446e72a1db9c7900e3c9dbb56114864e0ab566  
+     size : 67008 
+     ssdeep :  1536:e vsW0WkWHVwZMi2l 3IPAMQI8t4yhOUvwrOSUN9PXyKD:e1t9HVGVWaOI8JhOUvwrhUN9PC  
+     submission names :  
+          var www clean mx virusesevidence output.10248340.txt  
+         ahr0cdovl3d3dy51bmliexrlcy5jb20vwxu5zmfasu9mwwnc.exe  
+         fb4ddcd8a60dd7e20f72154c27e7b75d  
+         Downloader  
+         Z:\\MaliciousURLDetector\\REPOSITORY\\DOWNLOADED\\14\\b2\\ahr0cdovl3d3dy51bmliexrlcy5jb20vwxu5zmfasu9mwwnc.exe  
+         Downloader.exe  
+         \\sonas\\share\\samples\\fb\\4d\\dc\\d8\\fb4ddcd8a60dd7e20f72154c27e7b75d.34cf2f9e0718abbb6f193b5f64c381cce2e3fa89  
+         a920dfd68ce720dc12997e1acf3ea6918554eea4  
+         10248340 
+      
+     tags :  
+         peexe  
+         signed 
+      
+     total : 45 
+     type :  Win32 EXE  
+     unique sources : 7 
+     verbose msg :  Scan finished  scan information embedded in this object 
+ 

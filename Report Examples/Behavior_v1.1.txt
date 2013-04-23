@@ -1,0 +1,392 @@
+=================================
+
+VirusTotal Behavior Report for 644a421e35c52dc6336e66802e5f0fa55ff030d06bf1b1233b8951a29fcb0aca
+
+=================================
+	
+	extra:
+			DeviceIoControl
+			SetWindowsHook
+	
+	filesystem: 
+		copied:
+		deleted:
+			path: C:\DOCUME~1\<USER>~1\LOCALS~1\Temp\UG1.tmp
+			success: True
+			path: C:\DOCUME~1\<USER>~1\LOCALS~1\Temp\UG2.tmp
+			success: True
+		downloaded:
+		moved:
+		opened:
+			path: C:\WINDOWS\system32\kmdsp.dll
+			success: True
+			path: \\.\PIPE\lsarpc
+			success: True
+			path: \\.\MountPointManager
+			success: True
+			path: C:\WINDOWS\Registration\R000000000007.clb
+			success: True
+			path: C:\DOCUME~1\<USER>~1\LOCALS~1\Temp\UG1.tmp
+			success: True
+			path: c:\autoexec.bat
+			success: True
+			path: C:\WINDOWS\system32\drivers\etc\hosts
+			success: True
+			path: C:\WINDOWS\WindowsShell.manifest
+			success: True
+			path: C:\DOCUME~1\<USER>~1\LOCALS~1\Temp\UG2.tmp
+			success: True
+			path: C:\DOCUME~1\<USER>~1\LOCALS~1\Temp\ac3.tmp
+			success: True
+			path: C:\DOCUME~1\<USER>~1\LOCALS~1\Temp\nc4.tmp
+			success: True
+			path: C:\WINDOWS\system32\wbem\wbemdisp.TLB
+			success: True
+			path: C:\WINDOWS\system32\stdole2.tlb
+			success: True
+			path: C:\WINDOWS\system32\shdocvw.dll
+			success: True
+			path: C:\WINDOWS\system32\mshtml.tlb
+			success: True
+			path: C:\WINDOWS\system32\en-US\jscript.dll.mui
+			success: False
+			path: C:\Documents and Settings\<USER>\Local Settings\Application Data\Microsoft\Internet Explorer\MSIMGSIZ.DAT
+			success: True
+		read:
+			path: C:\WINDOWS\Registration\R000000000007.clb
+			success: True
+			path: c:\autoexec.bat
+			success: True
+			path: C:\DOCUME~1\<USER>~1\LOCALS~1\Temp\UG1.tmp
+			success: True
+			path: C:\WINDOWS\system32\drivers\etc\hosts
+			success: True
+			path: C:\DOCUME~1\<USER>~1\LOCALS~1\Temp\UG2.tmp
+			success: True
+			path: C:\WINDOWS\system32\wbem\wbemdisp.TLB
+			success: True
+			path: C:\WINDOWS\system32\stdole2.tlb
+			success: True
+			path: C:\WINDOWS\system32\shdocvw.dll
+			success: True
+			path: C:\WINDOWS\system32\mshtml.tlb
+			success: True
+		replaced:
+		written:
+			path: C:\WINDOWS\system32\kmdsp.dll
+			success: True
+			path: C:\DOCUME~1\<USER>~1\LOCALS~1\Temp\UG1.tmp
+			success: True
+			path: C:\WINDOWS\system32\drivers\etc\hosts
+			success: True
+			path: C:\DOCUME~1\<USER>~1\LOCALS~1\Temp\UG2.tmp
+			success: True
+	
+	hooking:
+			method: SetWindowsHook
+			success: True
+			type: WH_MSGFILTER
+			method: SetWindowsHook
+			success: True
+			type: WH_MOUSE
+			method: SetWindowsHook
+			success: True
+			type: WH_KEYBOARD
+	
+	mutex: 
+		created:
+			mutex: RasPbFile
+			success: False
+			mutex: CTF.LBES.MutexDefaultS-1-5-21-1275210071-920026266-1060284298-1003
+			success: True
+			mutex: CTF.Compart.MutexDefaultS-1-5-21-1275210071-920026266-1060284298-1003
+			success: True
+			mutex: CTF.Asm.MutexDefaultS-1-5-21-1275210071-920026266-1060284298-1003
+			success: True
+			mutex: CTF.Layouts.MutexDefaultS-1-5-21-1275210071-920026266-1060284298-1003
+			success: True
+			mutex: CTF.TMD.MutexDefaultS-1-5-21-1275210071-920026266-1060284298-1003
+			success: True
+			mutex: MSIMGSIZECacheMutex
+			success: True
+			mutex: _!SHMSFTHISTORY!_
+			success: True
+		opened:
+			mutex: RasPbFile
+			success: True
+			mutex: _!SHMSFTHISTORY!_
+			success: False
+	
+	network: 
+		dns:
+			hostname: js.users.51.la
+			ip: 117.21.227.34
+			hostname: icon.ajiang.net
+			ip: 125.46.49.200
+			hostname: web2.51.la
+			ip: 113.107.43.103
+		http:
+			method: GET
+			url: http://101.226.241.60:22/host.htm
+			user-agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+			method: GET
+			url: http://101.226.241.60:22/gx.asp
+			user-agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+			method: GET
+			url: http://101.226.241.60:22/gx.asp?id=22&mac=08-00-27-E4-F0-B0
+			user-agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+			method: GET
+			url: http://js.users.51.la/15605569.js
+			user-agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+			method: GET
+			url: http://web2.51.la:82/go2.asp?svid=9&id=15605569&tpages=1&ttimes=1&tzone=-7&tcolor=32&sSize=2048,1280&referrer=&vpage=http%3A//101.226.241.60%3A22/gx.asp%3Fid%3D22%26mac%3D08-00-27-E4-F0-B0
+			user-agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+			method: GET
+			url: http://icon.ajiang.net/icon_9.gif
+			user-agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+		tcp:
+			101.226.241.60:22
+			117.21.227.34:80
+			113.107.43.103:82
+			125.46.49.200:80
+	
+
+		udp:
+			<MACHINE_DNS_SERVER>:53
+	
+
+	
+	process: 
+		created:
+		injected:
+		shellcmds:
+		terminated:
+		tree:
+	
+	registry: 
+		deleted:
+			key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012013041420130415
+			success: True
+		set:
+			key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel\{871C5380-42A0-1069-A2EA-08002B30309D}
+			success: True
+			type: REG_DWORD
+			val: 0
+			key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\ClassicStartMenu\{871C5380-42A0-1069-A2EA-08002B30309D}
+			success: True
+			type: REG_DWORD
+			val: 0
+			key: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Common Desktop
+			success: True
+			type: REG_SZ
+			val: C:\Documents and Settings\All Users\Desktop
+			key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\{a20cd692-8e41-11e1-9999-806d6172696f}\\BaseClass
+			success: True
+			type: REG_SZ
+			val: Drive
+			key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Desktop
+			success: True
+			type: REG_SZ
+			val: C:\Documents and Settings\<USER>\Desktop
+			key: HKEY_USERS\S-1-5-21-1275210071-920026266-1060284298-1003\Software\Microsoft\windows\CurrentVersion\Internet Settings\MigrateProxy
+			success: True
+			type: REG_DWORD
+			val: 1
+			key: HKEY_USERS\S-1-5-21-1275210071-920026266-1060284298-1003\Software\Microsoft\windows\CurrentVersion\Internet Settings\ProxyEnable
+			success: True
+			type: REG_DWORD
+			val: 0
+			key: HKEY_CURRENT_CONFIG\Software\Microsoft\windows\CurrentVersion\Internet Settings\ProxyEnable
+			success: True
+			type: REG_DWORD
+			val: 0
+			key: HKEY_USERS\S-1-5-21-1275210071-920026266-1060284298-1003\Software\Microsoft\windows\CurrentVersion\Internet Settings\Connections\SavedLegacySettings
+			success: True
+			type: REG_BINARY
+			val: 
+			key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\\ProxyBypass
+			success: True
+			type: REG_DWORD
+			val: 1
+			key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\\IntranetName
+			success: True
+			type: REG_DWORD
+			val: 1
+			key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\\UNCAsIntranet
+			success: True
+			type: REG_DWORD
+			val: 1
+			key: HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\Start Page
+			success: True
+			type: REG_SZ
+			val: http://101.226.241.60:68
+			key: HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Control Panel\HomePage
+			success: True
+			type: REG_DWORD
+			val: 1
+			key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012013040820130415\CachePath
+			success: True
+			type: REG_EXPAND_SZ
+			val: %USERPROFILE%\Local Settings\History\History.IE5\MSHist012013040820130415\
+			key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012013040820130415\CachePrefix
+			success: True
+			type: REG_SZ
+			val: :2013040820130415: 
+			key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012013040820130415\CacheLimit
+			success: True
+			type: REG_DWORD
+			val: 0
+			key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012013040820130415\CacheOptions
+			success: True
+			type: REG_DWORD
+			val: 11
+			key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012013040820130415\CacheRepair
+			success: True
+			type: REG_DWORD
+			val: 0
+			key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012013042220130423\CachePath
+			success: True
+			type: REG_EXPAND_SZ
+			val: %USERPROFILE%\Local Settings\History\History.IE5\MSHist012013042220130423\
+			key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012013042220130423\CachePrefix
+			success: True
+			type: REG_SZ
+			val: :2013042220130423: 
+			key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012013042220130423\CacheLimit
+			success: True
+			type: REG_DWORD
+			val: 0
+			key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012013042220130423\CacheOptions
+			success: True
+			type: REG_DWORD
+			val: 11
+			key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012013042220130423\CacheRepair
+			success: True
+			type: REG_DWORD
+			val: 0
+	
+	runtime-dlls:
+			file: msvbvm60.dll
+			success: True
+			file: oleaut32.dll
+			success: True
+			file: sxs.dll
+			success: True
+			file: c:\windows\system32\vb6chs.dll
+			success: False
+			file: kernel32
+			success: True
+			file: advapi32.dll
+			success: True
+			file: user32
+			success: True
+			file: shell32
+			success: True
+			file: ole32.dll
+			success: True
+			file: setupapi.dll
+			success: True
+			file: rpcrt4.dll
+			success: True
+			file: shell32.dll
+			success: True
+			file: clbcatq.dll
+			success: True
+			file: comctl32.dll
+			success: True
+			file: riched20.dll
+			success: True
+			file: wininet.dll
+			success: True
+			file: secur32.dll
+			success: True
+			file: apphelp.dll
+			success: True
+			file: wininet
+			success: True
+			file: urlmon
+			success: True
+			file: mlang.dll
+			success: True
+			file: wsock32
+			success: True
+			file: ws2_32
+			success: True
+			file: c:\windows\system32\mswsock.dll
+			success: True
+			file: hnetcfg.dll
+			success: True
+			file: c:\windows\system32\wshtcpip.dll
+			success: True
+			file: ws2_32.dll
+			success: True
+			file: rasapi32.dll
+			success: True
+			file: rtutils.dll
+			success: True
+			file: sensapi.dll
+			success: True
+			file: ntdll.dll
+			success: True
+			file: userenv.dll
+			success: True
+			file: netapi32.dll
+			success: True
+			file: urlmon.dll
+			success: True
+			file: msvcrt.dll
+			success: True
+			file: c:\windows\system32\mfc42loc.dll
+			success: False
+			file: kmdsp.dll
+			success: True
+			file: c:\windows\system32\asycfilt.dll
+			success: True
+			file: gdi32
+			success: True
+			file: c:\windows\system32\shdoclc.dll
+			success: True
+			file: c:\windows\system32\imm32.dll
+			success: True
+			file: imm32.dll
+			success: True
+			file: user32.dll
+			success: True
+			file: c:\windows\system32\kernel32.dll
+			success: True
+			file: dnsapi.dll
+			success: True
+			file: c:\windows\system32\winrnr.dll
+			success: True
+			file: rasadhlp.dll
+			success: True
+			file: ole32
+			success: True
+			file: kernel32.dll
+			success: True
+			file: mshtml.dll
+			success: True
+	
+	service: 
+		controlled:
+		created:
+		deleted:
+		opened:
+			name: RASMAN
+			success: True
+		opened-managers:
+			database: SERVICES_ACTIVE_DATABASE
+			machine: localhost
+			success: True
+		started:
+	
+	windows: 
+		searched:
+			class: Progman
+			name: Program Manager
+			class: Shell_TrayWnd
+			name: (null)
+			class: MS_AutodialMonitor
+			name: (null)
+			class: MS_WebcheckMonitor
+			name: (null)

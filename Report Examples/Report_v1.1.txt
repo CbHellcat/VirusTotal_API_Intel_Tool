@@ -1,0 +1,21 @@
+=================================
+
+VirusTotal Report for 644a421e35c52dc6336e66802e5f0fa55ff030d06bf1b1233b8951a29fcb0aca
+
+=================================
+
+MD5: 1e21a9a38841c51015c783aabcc08d09
+SHA1: f09b9e10259df134041aed10d016333d44f6dc8c
+SHA256: 644a421e35c52dc6336e66802e5f0fa55ff030d06bf1b1233b8951a29fcb0aca
+
+Detected by: 19/46
+Kaspersky Detection: Trojan-Downloader.Win32.VB.bkbk
+Scanned On: 2013-04-23 05:50:53
+First Seen: 2013-04-23 05:50:53
+Last Seen: 2013-04-23 05:50:53
+Unique Sources: 1
+File Tags: peexe, upx, ssh
+File Type: Win32 EXE
+File Size: 68608
+Submission Names:
+	\sonas\share\samples\1e\21\a9\a3\1e21a9a38841c51015c783aabcc08d09.f09b9e10259df134041aed10d016333d44f6dc8c

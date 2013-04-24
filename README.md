@@ -159,13 +159,19 @@ Example Hash List Search:
 ## Example Reports Added
 
 Report.txt
+
 Verbose.txt
+
 Behavior.txt
+
 VT_JSON_Example.json
 
 ## Todo
   
 Clean up code, indentation and quote unformity
+
 Clean up/change terminal output
+
 Fix some spacing issues in reports
+
 Add function to avoid downloading files/reports that have already been downloaded
